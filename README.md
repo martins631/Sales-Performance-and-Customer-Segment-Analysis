@@ -36,9 +36,69 @@ Provide data-driven insights and business recommendations
 
 ## 🗂 Dataset Description
 The dataset consists of sales transaction records with the following key attributes:
+
 Time: Year, Quarter
+
 Products: Category, Sub-Category
+
 Customers: Segment (Consumer, Corporate, Home Office)
+
 Geography: City
+
 Metrics: Sales values with year-over-year comparisons
+
 The data was cleaned, aggregated, and transformed to support accurate analysis and visualization.
+
+## 🛠 Tools & Technologies
+
+Microsoft Excel (Data modeling and visualization)
+
+Pivot Tables & Aggregations
+
+Calculated Fields & Year-over-Year (YoY) Metrics
+
+Conditional Formatting
+
+Interactive Slicers and Filters
+
+Dashboard Design Principles
+
+## 🔄 Data Preparation & Transformation (ETL)
+
+The project follows an ETL (Extract, Transform, Load) approach:
+
+### Extract
+
+Imported raw transactional sales data
+
+Verified data structure, formats, and time ranges
+
+### Transform
+
+Cleaned inconsistent values and formatting issues
+
+Aggregated data using pivot tables
+
+Created calculated fields for YoY growth and comparisons
+
+Grouped data by year, quarter, category, segment, and city
+
+Applied conditional formatting to highlight performance changes
+
+### Load
+
+Loaded transformed data into interactive dashboards
+
+Linked visuals to slicers for dynamic exploration
+
+## ❓ Key Business Questions
+
+How has sales performance changed over time?
+
+Which quarters generate the highest revenue?
+
+Which product sub-categories are driving growth or decline?
+
+How do customer segments differ in sales contribution?
+
+Which cities show strong growth potential or declining performance?
