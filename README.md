@@ -49,6 +49,9 @@ Metrics: Sales values with year-over-year comparisons
 
 The data was cleaned, aggregated, and transformed to support accurate analysis and visualization.
 
+## Dataset Used
+= <a href="https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sale%20Performance%20and%20Customer%20Segment%20Analysis.xlsx">Dataset</a>
+
 ## 🛠 Tools & Technologies
 
 Microsoft Excel (Data modeling and visualization)
@@ -154,6 +157,9 @@ San Francisco
 
 Columbus
 
+## Dashboard Image
+= <a href="https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sales%20Performance%20and%20Customer%20Segment%20Analysis%20IMG.png">Dashboard</a>
+
 ## 💡 Recommendations
 
 Prioritize inventory and marketing efforts during Q4 peak periods
@@ -186,5 +192,12 @@ The analysis emphasizes business impact, not just visuals
 
 ## 👤 Author
 
-Oluwole Damilola [Martins][
+Oluwole Damilola [Martins]
+
 Data Analyst | Data Visualization | Business Intelligence
+
+## Dataset Used
+= <a href="https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sale%20Performance%20and%20Customer%20Segment%20Analysis.xlsx">Dataset</a>
+
+## Dashboard Image
+= <a href="https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sales%20Performance%20and%20Customer%20Segment%20Analysis%20IMG.png">Dashboard</a>
