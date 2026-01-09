@@ -102,3 +102,89 @@ Which product sub-categories are driving growth or decline?
 How do customer segments differ in sales contribution?
 
 Which cities show strong growth potential or declining performance?
+
+## 📈 Key Insights & Findings
+### Sales Trends
+
+Sales exhibit a clear upward trend from 2014 to 2017
+
+Q4 consistently records the highest sales, indicating strong seasonality
+
+2017 achieved the highest overall sales performance
+
+### Product Performance
+
+Overall sales increased by **20.4%** from **2016** to **2017**
+
+Top-performing sub-categories include:
+
+Appliances **(+64.8%)**
+
+Binders **(+46.5%)**
+
+Accessories **(+43.1%)**
+
+Phones **(+33.4%)**
+
+Machines recorded a decline of **22.1%**
+
+### Customer Segments
+
+Consumer segment drives the majority of growth **(+18.1%)**
+
+Corporate segment experienced a significant decline **(−21.6%)**
+
+Home Office segment remained relatively stable
+
+### Geographic Performance
+
+High-growth cities include:
+
+Seattle **(+291.2%)**
+
+Burlington **(+264.1%)**
+
+Philadelphia **(+63.7%)**
+
+### Declines observed in:
+
+New York City
+
+San Francisco
+
+Columbus
+
+## 💡 Recommendations
+
+Prioritize inventory and marketing efforts during Q4 peak periods
+
+Increase focus on high-growth sub-categories such as Appliances and Accessories
+
+Reassess engagement strategies for Corporate customers
+
+Expand operations in emerging high-growth cities
+
+Investigate causes of decline in traditionally strong markets
+
+## ⚠️ Limitations
+
+External market factors were not considered
+
+Findings are based on historical data and may not predict future performance
+
+## 🧾 Conclusion
+
+This project demonstrates how structured data analysis and visualization can transform raw sales data into meaningful insights. By combining trend analysis, comparative metrics, and interactive dashboards, the analysis supports better decision-making and strategic planning.
+
+## 📎 Portfolio Notes
+
+This project is suitable for Data Analyst / Business Analyst portfolios
+
+Dashboards are designed to be interactive and user-friendly
+
+The analysis emphasizes business impact, not just visuals
+
+## 👤 Author
+
+Oluwole Damilola [Martins][
+Data Analyst | Data Visualization | Business Intelligence
