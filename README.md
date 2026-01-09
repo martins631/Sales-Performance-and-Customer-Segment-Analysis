@@ -9,4 +9,4 @@ The analysis focuses on identifying growth drivers, declining areas, seasonal pa
 ## Dataset Used
 https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sale%20Performance%20and%20Customer%20Segment%20Analysis.xlsx
 ## Dashboard Image
-https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sales%20Performance%20and%20Customer%20Segment%20Analysis%20IMG.png
+= <a href="https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sales%20Performance%20and%20Customer%20Segment%20Analysis%20IMG.png">Dataset</a>
