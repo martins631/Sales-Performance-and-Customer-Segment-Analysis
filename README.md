@@ -7,6 +7,7 @@ This project analyzes multi-year sales data to uncover trends in revenue growth,
 The analysis focuses on identifying growth drivers, declining areas, seasonal patterns, and segment-level performance using clear and intuitive data visualizations.
 
 ## Dataset Used
-https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sale%20Performance%20and%20Customer%20Segment%20Analysis.xlsx
+= <a href="https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sale%20Performance%20and%20Customer%20Segment%20Analysis.xlsx">Dataset</a>
+
 ## Dashboard Image
-= <a href="https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sales%20Performance%20and%20Customer%20Segment%20Analysis%20IMG.png">Dataset</a>
+= <a href="https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sales%20Performance%20and%20Customer%20Segment%20Analysis%20IMG.png">Dashboard</a>
