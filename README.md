@@ -1,4 +1,4 @@
-##**📊 Sales Performance and Customer Segment Analysis (2014–2017)**
+# **📊 Sales Performance and Customer Segment Analysis (2014–2017)**
 
 📌 Project Overview
 
