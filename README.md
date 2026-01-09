@@ -25,9 +25,13 @@ To analyze historical sales data and visualize key performance trends in order t
 
 ## ✅ Project Objectives
 Analyze quarterly and yearly sales trends from 2014 to 2017
+
 Compare year-over-year sales performance across product sub-categories
+
 Evaluate sales contribution by customer segment
+
 Identify top-performing and declining cities
+
 Provide data-driven insights and business recommendations
 
 ## 🗂 Dataset Description
