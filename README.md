@@ -160,6 +160,9 @@ Columbus
 ## Dashboard Image
 = <a href="https://github.com/martins631/Sales-Performance-and-Customer-Segment-Analysis/blob/main/Sales%20Performance%20and%20Customer%20Segment%20Analysis%20IMG.png">Dashboard</a>
 
+<img width="1417" height="702" alt="Sales Performance and Customer Segment Analysis IMG" src="https://github.com/user-attachments/assets/59e75aa0-9737-489a-99c2-6a759aaa87db" />
+
+
 ## 💡 Recommendations
 
 Prioritize inventory and marketing efforts during Q4 peak periods
